@@ -1,0 +1,1096 @@
+Pattern: 33C040C20C00
+	0000:o=2:ulink:a=104:m=+E(+5*0c&~-/VirtualProtect~)??*0d&/entry:S=0/pe 
+
+Pattern: 33C0C20800
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: 5050535556578B5C241C8B7424208B6C2424FF15........89442410A9000000
+	0000:o=2:a=104:dm32rw32:m=+141^/_DllMain@12 
+
+Pattern: 5050538B5C2410558B6C241C568B74241C57FF15........A900000080894424
+	0000:o=2:a=104:dm32rw32:m=+BF^/_DllMain@12 
+
+Pattern: 506A00E8........BA........528905........894204C7420800000000C742
+	0000:o=2:a=10C:b32vcl 
+
+Pattern: 5355568B74241485F657B80100000075138B0D........85C9750933C05F5E5D
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+61^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 535657BB010000008B7C2414553BFB752A011D........83FF01740583FF0275
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+7C^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+80^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+80^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 535657BB010000008B7C24145585FF7512833D........00750933C05D5F5E5B
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+6E^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 535783EC08E8........E8........B801000000E8........85C0750B83C408
+	0000:vac35wc:c=a:o=2:a=166:m=+68^/_WinMain@16 
+
+Pattern: 535783EC08E8........FF15........B801000000E8........85C0750B83C4
+	0000:vac35wc:c=a:o=2:a=166:m=+68^/_WinMain@16 
+
+Pattern: 5381C4F8FEFFFF68050100008D44240450A1........50E8........8BC4E8
+	0000:o=2:a=10C:b32vcl 
+
+Pattern: 5383EC0CE8........E8........B801000000E8........85C0750A83C40CB8
+	0000:vac35wc:c=a:o=2:a=165:m=+4A^/?main 
+
+Pattern: 5383EC0CE8........FF15........B801000000E8........85C0750A83C40C
+	0000:vac35wc:c=a:o=2:a=165:m=+4B^/?main 
+
+Pattern: 5383EC18A1........85C0741CC744240800000000C744240402000000C70424
+	0000:o=2:a=104:c=g:gcc32rtf:m=+C8^/_main:M=0/- 
+
+Pattern: 5383EC28A1........85C0741CC744240800000000C744240402000000C70424
+	0000:o=2:a=104:c=g:gcc32rtf:m=+E8^/_main:M=0/- 
+
+Pattern: 5383EC38A1........85C0741CC744240800000000C744240402000000C70424
+	0000:o=2:a=104:c=g:gcc32rtf:m=+F8^/_main:M=0/- 
+
+Pattern: 538BD833C0A3........6A00E8........A3........A1........A3
+	0000:o=2:a=10C:bds 
+
+Pattern: 53B8010000008B5C240C565785DB557512833D........00750933C05D5F5E5B
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+72^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 5531C089E5B91100000057565383EC7C8B1D........8D55A489D7F3AB85DB0F
+	0000:o=2:a=104:c=g:gcc32rtf:m=+236(+A3!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 5531C089E5B9110000005756538D55A481ECAC00000089D7F3AB8D44241B83E0
+	0000:o=2:a=104:c=g:gcc32rtf:m=+286(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+28D(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+295(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+295(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 5531C089E5B91100000057568D55A45389D783EC7CF3AB8B3D........85FF0F
+	0000:o=2:a=104:c=g:gcc32rtf:m=+247(+A3!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+24A(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 5531C089E5B91100000057568D55A45389D783EC7CF3ABA1........85C00F85
+	0000:o=2:a=104:c=g:gcc32rtf:m=+239(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 5531C089E5B91100000057568D55A45389D783EC7CF3ABB030E8........29C4
+	0000:o=2:a=104:c=g:gcc32rtf:m=+255(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+255(+A7!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+259(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+259(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+25B(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+265(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+265(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+266(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+266(+A7!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+269(+B1!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+26B(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+26B(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+26D(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+275(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+275(+91!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+275(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+277(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+278(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+27B(+B1!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+286(+87!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+289(+A6!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+28C(+91!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 5531C0B91100000089E557568D55A45389D783EC7CF3ABB030E8........29C4
+	0000:o=2:a=104:c=g:gcc32rtf:m=+25D(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+27B(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 5531C0B91100000089E557568D55A45389D783EC7CF3ABB830000000E8
+	0000:o=2:a=104:c=g:gcc32rtf:m=+26D(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+26E(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+276(+AD!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+27B(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+27B(+9F!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+288(+AC!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 555789CD565389C789D383EC1C85D28915........7549A1........85C07464
+	0000:o=2:a=108:c=g:gcc32rtf:m=+34^/_DllMain@12 
+
+Pattern: 555789CF565389C689D383EC1C85D28915........7569A1........85C07448
+	0000:o=2:a=108:c=g:gcc32rtf:m=+34^/_DllMain@12 
+	0000:o=2:a=108:c=g:gcc32rtf:m=+34^/_DllMain@12 
+
+Pattern: 555789CF565389C689D383EC1C85D28915........7579A1........85C07453
+	0000:o=2:a=108:c=g:gcc32rtf:m=+34^/_DllMain@12 
+
+Pattern: 5589E55383EC14A1........85C0741CC744240800000000C744240402000000
+	0000:o=2:a=104:c=g:gcc32rtf:m=+CB^/_main:M=0/- 
+
+Pattern: 5589E55383EC14C70424........E8........83EC04E8........8B0D
+	0000:o=2:a=104:c=g:gcc32rtf:m=+E3^/_main:M=0/- 
+
+Pattern: 5589E55383EC248D5DF8C70424........E8........83EC04E8........C745
+	0000:o=2:a=104:c=g:gcc32rtf:m=+E2^/_main:M=0/- 
+
+Pattern: 5589E55383EC24A1........85C0741CC744240800000000C744240402000000
+	0000:o=2:a=104:c=g:gcc32rtf:m=+A6^/_main:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+A8^/_main:M=0/- 
+
+Pattern: 5589E55383EC34A1........85C0741CC744240800000000C744240402000000
+	0000:o=2:a=104:c=g:gcc32rtf:m=+B4^/_main:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+B6^/_main:M=0/- 
+
+Pattern: 5589E557565383EC0C8B7D0C83FF010F84AB000000897C24048B5D108B4D0889
+	0000:o=2:a=108:c=g:gcc32rtf:m=+26^/_DllMain@12; 
+
+Pattern: 5589E557565383EC1C8B5D0C8B75088B7D1083FB017439893424897C2408895C
+	0000:o=2:a=108:c=g:gcc32rtf:m=+22^/_DllMain@12; 
+
+Pattern: 5589E557565383EC2C8B75088B5D0C8B7D1083FB01743D897C2408895C240489
+	0000:o=2:a=108:c=g:gcc32rtf:m=+22^/_DllMain@12; 
+
+Pattern: 5589E55789CF5689C65389D383EC1C85D28915........754CA1........85C0
+	0000:o=2:a=108:c=g:gcc32rtf:m=+36^/_DllMain@12 
+	0000:o=2:a=108:c=g:gcc32rtf:m=+36^/_DllMain@12 
+
+Pattern: 5589E583EC08C7042401000000FF15........E8C8FEFFFF908DB42600000000
+	0000:s=13/- 
+
+Pattern: 5589E583EC08C7042402000000FF15........E8A8FEFFFF908DB42600000000
+	0000:s=13/- 
+
+Pattern: 5589E583EC08C705........00000000E8........C9E905FCFFFF9090909090
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........00000000E8........C9E945FCFFFF9090909090
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........00000000E8........C9E955FCFFFF9090909090
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........00000000E8........C9E965FAFFFF9090909090
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........00000000E8........C9E9A5FAFFFF9090909090
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........00000000E8........C9E9B5FAFFFF9090909090
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........01000000E8........C9E925FCFFFF908D742600
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........01000000E8........C9E965FCFFFF908D742600
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........01000000E8........C9E975FCFFFF908D742600
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........01000000E8........C9E985FAFFFF908D742600
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........01000000E8........C9E9C5FAFFFF908D742600
+	0000:s=16/- 
+
+Pattern: 5589E583EC08C705........01000000E8........C9E9D5FAFFFF908D742600
+	0000:s=16/- 
+
+Pattern: 5589E583EC08E865FDFFFF908D742600
+	0000:s=6/- 
+
+Pattern: 5589E583EC08E875FDFFFF908D742600
+	0000:s=6/- 
+
+Pattern: 5589E583EC08E889FDFFFF90
+	0000:s=6/- 
+
+Pattern: 5589E583EC08E895FDFFFF90
+	0000:s=6/- 
+
+Pattern: 5589E583EC08E8C5FEFFFF908D742600
+	0000:s=6/- 
+
+Pattern: 5589E583EC08E8D5FEFFFF908D742600
+	0000:s=6/- 
+
+Pattern: 5589E583EC08E8E5FEFFFF908D742600
+	0000:s=6/- 
+
+Pattern: 5589E583EC188B550CC705........0000000083FA01740F8B4D108B4508E85D
+	0000:s=1E/- 
+
+Pattern: 5589E583EC18A1........C7442404000000008944240CA1........89442408
+	0000:m=+28^/_wWinMain@16 
+
+Pattern: 5589E583EC18C7042401000000FF15........E858FDFFFF908DB42600000000
+	0000:s=13/- 
+
+Pattern: 5589E583EC18C7042401000000FF15........E87CFDFFFF
+	0000:s=13/- 
+
+Pattern: 5589E583EC18C7042401000000FF15........E8A8FEFFFF908DB42600000000
+	0000:s=13/- 
+
+Pattern: 5589E583EC18C7042402000000FF15........E838FDFFFF908DB42600000000
+	0000:s=13/- 
+
+Pattern: 5589E583EC18C7042402000000FF15........E864FDFFFF
+	0000:s=13/- 
+
+Pattern: 5589E583EC18C7042402000000FF15........E8C8FEFFFF908DB42600000000
+	0000:s=13/- 
+
+Pattern: 5589E583EC3885D2895DF489C38975F889D6897DFC894DE48915........7556
+	0000:o=2:a=108:c=g:gcc32rtf:m=+42^/_DllMain@12 
+
+Pattern: 5589E583EC38895DF48B5D0C8975F88B7508897DFC8B7D1083FB017443897C24
+	0000:o=2:a=108:c=g:gcc32rtf:m=+28^/_DllMain@12; 
+	0000:o=2:a=108:c=g:gcc32rtf:m=+28^/_DllMain@12; 
+
+Pattern: 558BEC51535657BB........85DB756D33C0EB798B53088B0A894DFC85C9745A
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: 558BEC51837D0C0175238B4510508B4D0C518B550852E8........83C40C8845
+	-0040:__CRT_INIT 0000:o=20:a=108:win32unx:m=+48^/_DLLMain@12 
+
+Pattern: 558BEC51C745FC01000000837D0C007510833D........00750733C0E9CC0000
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+7B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC5356578B7508BB........85DB755E33C0EB688B53088B3A85FF744E85
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: 558BEC538B5D08568B750C578B7D1085F67509833D........00EB2683FE0174
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+4B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC538B5D08568B750C85F6578B7D107509833D........00EB2683FE0174
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+4B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC5657BF010000008B750C85F6750D833D........00750433C0EB7983FE
+	0000:o=2:a=108:vc32rtf:l=vc32mfc:m=+5A^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC648B15........6AFF68........68........52648925........83EC
+	0000:o=2:a=104:dm32rw32:m=+A4^(~dm_d2_win/_main~+12B!&~dm_d2_win/_D2rt6dmain24mainUiPPaZi6runAllMFZv~+25!&+7!^@dm_d2_win@/_Dmain)/ 
+	0000:o=2:a=104:dm32rw32:m=+A5^/_WinMain@16 
+	0000:o=2:a=104:dm32rw32:m=+A5^/_wmain 
+	0000:o=2:a=104:dm32rw32:m=+A6^/_wWinMain@16 
+
+Pattern: 558BEC68........64FF35000000006489250000000083EC0457E8........E8
+	0000:vac35wc:c=a:o=2:a=166:m=+ED^/_WinMain@16 
+
+Pattern: 558BEC68........64FF35000000006489250000000083EC0457E8........FF
+	0000:vac35wc:c=a:o=2:a=166:m=+ED^/_WinMain@16 
+
+Pattern: 558BEC68........64FF350000000064892500000000E8........E8
+	0000:vac35wc:c=a:o=2:a=165:m=+CA^/?main 
+
+Pattern: 558BEC68........64FF350000000064892500000000E8........FF15
+	0000:vac35wc:c=a:o=2:a=165:m=+CE^/?main 
+
+Pattern: 558BEC6AFE68........68........64A1000000005081C478FFFFFF535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+2AA^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+2AB^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C488535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+284^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+284^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+284^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C48C535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+281^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+281^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+281^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4CC535657A1
+	0000:s=152/- 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4D0535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+22D^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+22E^/ 
+	0000:s=14B/- 
+	0000:s=14C/- 
+	0000:s=155/- 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4D4535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+20A^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+217^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+22D^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+23A^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4E0535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+108(-72!&~-/GetCommandLineW~)??^/_wWinMain@16;^/_WinMain@16 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+123(-72!&~-/GetCommandLineW~)??^/_wWinMain@16;^/_WinMain@16 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4E4535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+194(-22!&~-/__winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+194(-22!&~-/__winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+1A1(-22!&~-/__winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+1A1(-22!&~-/__winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+1A1(-22!&~-/__winitenv~)??^/_wmain;^/ 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4E8535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+107(-7A!&~-/GetCommandLineW~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+115(-7A!&~-/GetCommandLineW~)??^/_wmain;^/ 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+C3^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+C3^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC6AFE68........68........64A1000000005083C4F0535657A1
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+A9^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+AD^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+BF^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+C6^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........648B15........68........52648925........83EC
+	0000:o=2:a=104:dm32rw32:m=+7E^/_WinMain@16 
+	0000:o=2:a=104:dm32rw32:m=+7F^/_wWinMain@16 
+	0000:o=2:a=104:dm32rw32:m=+81^/ 
+	0000:o=2:a=104:dm32rw32:m=+82^/_wmain 
+	0000:o=2:a=104:dm32rw32:m=+87^/ 
+	0000:o=2:a=104:dm32rw32:m=+88^/_WinMain@16 
+	0000:o=2:a=104:dm32rw32:m=+88^/_wmain 
+	0000:o=2:a=104:dm32rw32:m=+89^/_wWinMain@16 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81C404
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+147^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+15A^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81C450
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+118^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+12B^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81C47C
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+1F3^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81C484
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+146^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+159^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81C4D0
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+117^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+12A^/_wmain 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81EC28
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+139^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+164^/_wmain 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81EC68
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+14E^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+178^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81ECA8
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+13A^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+165^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........81ECE8
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+14F^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+179^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C480
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+1ED^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C484
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+1EC^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C488
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+1C6^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C490
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+18E^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+18F^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+1A1^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+1A2^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C494
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+1AE^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+1CC^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1AF^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1CD^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C498
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+151^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+179^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4A4
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+10D^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+10E^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+120^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+121^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1AB^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1BE^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1C7^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1DA^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4A8
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+12D^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+13A^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+140^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+14D^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4D8
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+127(-17!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4DC
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+114(-17!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4E0
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+FA(-17!&~-/__p___winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+FA(-17!&~-/__p___winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+FA(-17!&~-/__p___winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+16A^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+16B^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+17D^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+17E^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4E4
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+C5^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4E8
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+B6^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83C4F0
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+E3^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+E4^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+F6^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+F7^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+100^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+10D^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+113^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+C9^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+CE^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+DC^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+E1^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+FA^/_wmain 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC08
+	0000:o=2:a=104:sm32rw32:l=mv32mfc:m=+69^/ 
+	0000:o=2:a=104:sm32rw32:l=mv32mfc:m=+6F^/_WinMain@16 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+100^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+105^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+106^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+10B^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+10E(-1D!&~-/__p___winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+10E(-1D!&~-/__p___winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+117^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+11D^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1B8^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1CA^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1CE^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1CF^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1CF^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1CF^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1E0^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1E1^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1E5^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1F5^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1F5^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+1F7^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+EE^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+F4^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC10
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+AE^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+AF^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+BF^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+C0^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC20
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+DE(-14!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC24
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+123(-14!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC58
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+C8^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+C9^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+DA^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+DB^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC64
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+166^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+18A^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC6AFF68........68........64A1........50648925........83EC68
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+12F^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab/vcextra:m=+156^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 558BEC83....B8........E8
+	0000:o=2:a=10C:s=B/- 
+
+Pattern: 558BEC83....E8
+	0000:o=2:a=10C:s=6/- 
+
+Pattern: 558BEC837D0C017505E8........8B4510508B4D0C518B550852E8........83
+	0000:s=1A/- 
+
+Pattern: 558BEC837D0C017505E8........FF7510FF750CFF7508E8........83C40C5D
+	0000:s=17/- 
+
+Pattern: 558BEC83C4C4B8........E8
+	0000:o=2:a=0:i=bds.idc:s=b/- 
+
+Pattern: 558BEC83C4F0A1........C60001B8........E8
+	0000:o=2:a=0:i=bds.idc:s=13/- 
+
+Pattern: 558BEC83C4F0B8........E8
+	0000:o=2:a=0:i=bds.idc:s=b/- 
+
+Pattern: 558BEC83C4F4B8........E8
+	0000:o=2:a=0:i=bds.idc:s=b/- 
+
+Pattern: 558BEC83EC04535657C745FC01000000837D0C000F8514000000833D
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+98^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+9F^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC83EC04535657C745FC01000000837D0C010F850B000000FF05
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+B8^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+B8^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 558BEC83EC08837D08000F85BA000000E8........A3........A1........89
+	-0110:___PosixSetUnhandledExceptionFilter -0100:__mainCRTStartup -0060:___PosixUnhandledExceptionFilter -0040:_RaiseException@16 -0030:__fptrap 0000:o=20:a=104:win32unx:m=+175^+50^/ 0180:_posix_argv0 0240:_setup_progname 0290:_LoadLdDotSoIfRequired 0500:___MixedModeProcessStartup 05F0:_setargv 0760:_wparse_cmdline 
+	-0090:__mainCRTStartup -0040:__RaiseException@16 -0030:__fptrap 0000:o=20:a=104:win32unx:m=+166^+27^/ 0170:_posix_argv0 0230:_setup_progname 0280:_LoadLdDotSoIfRequired 04F0:@__security_check_cookie@4 0500:___MixedModeProcessStartup 05E0:_setargv 0750:_wparse_cmdline 
+
+Pattern: 558BEC83EC08E8........0FB7C08945FCE8........8945F88B4DFC518B55F8
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+28(-D!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+
+Pattern: 558BEC83EC08E8........A3........A1........8945F8C705........0000
+	-0090:__mainCRTStartup -0040:__RaiseException@16 -0030:__fptrap 0000:o=20:a=104:win32unx:m=+ED^+27^/ 0100:_posix_argv0 01C0:_setup_progname 0210:___MixedModeProcessStartup 02D0:_setargv 0440:_wparse_cmdline 
+
+Pattern: 558BEC83EC0CE8........8945FCE8........8B008945F8E8........8B0889
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+2E(-16!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+
+Pattern: 558BEC83EC24E8........8945FC837DFCFF750EA1........50E8........83
+	-0610:___PosixSetUnhandledExceptionFilter -0600:__mainCRTStartup -0560:___PosixUnhandledExceptionFilter -0540:_RaiseException@16 -0530:__fptrap -0500:___PosixProcessStartup -0380:_posix_argv0 -02C0:_setup_progname -0270:_LoadLdDotSoIfRequired 0000:o=20:a=104:win32unx:m=+E4^+50^/ 00F0:_setargv 0260:_wparse_cmdline 
+	-0590:__mainCRTStartup -0540:__RaiseException@16 -0530:__fptrap -0500:___PosixProcessStartup -0390:_posix_argv0 -02D0:_setup_progname -0280:_LoadLdDotSoIfRequired -0010:@__security_check_cookie@4 0000:o=20:a=104:win32unx:m=+D5^+27^/ 00E0:_setargv 0250:_wparse_cmdline 
+	-02A0:__mainCRTStartup -0250:__RaiseException@16 -0240:__fptrap -0210:___PosixProcessStartup -0110:_posix_argv0 -0050:_setup_progname 0000:o=20:a=104:win32unx:m=+AF^+27^/ 00C0:_setargv 0230:_wparse_cmdline 
+
+Pattern: 558BECE8........0FB7C050E8........506A0068........E8........5DC3
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+19(-D!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+
+Pattern: 558BECE8........50E8........8B0050E8........8B0851E8........83C4
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+19(-16!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+
+Pattern: 558BECE8........5DC3
+	0000:s=3/- 
+
+Pattern: 558BECE8........E8........5DC3
+	0000:s=8/- 
+
+Pattern: 55B81000000089E55383EC6483E4F0E8........E8........E8........89C3
+	0000:m=+105^/_WinMain@16 
+
+Pattern: 57565383EC108B5C24248B7424208B7C242883FB017439893424897C2408895C
+	0000:o=2:a=108:c=g:gcc32rtf:m=+22^/_DllMain@12; 
+
+Pattern: 648B15........558BEC6AFF68........68........52648925........83EC
+	0000:o=2:a=104:dm32rw32:m=+A0^/_WinMain@16 
+	0000:o=2:a=104:dm32rw32:m=+A1^/_wWinMain@16 
+	0000:o=2:a=104:dm32rw32:m=+A4^/ 
+	0000:o=2:a=104:dm32rw32:m=+A5^/_wmain 
+
+Pattern: 64A1........558BEC6AFF68........68........50648925........83EC10
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+B9^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+BF^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+C7^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+CC^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+CD^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+D2^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+DA^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+E0^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+A6^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+AD^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+B9^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+C0^/ 
+
+Pattern: 64A1........558BEC6AFF68........68........50648925........83EC28
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+CC(-14!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 64A1........558BEC6AFF68........68........50648925........83EC2C
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+F7(-17!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 64A1........558BEC6AFF68........68........50648925........83EC60
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+130^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+138^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+13E^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+143^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+146^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+14B^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+151^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+159^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+115^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+11D^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+128^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+130^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 64A1........558BEC6AFF68........68........50648925........83EC74
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+126^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc:m=+14B^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 64A1........558BEC6AFF68........68........50648925........83EC78
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+152^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vc432opg/vc432tap/vc432cab:m=+176^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 6A006A0268........68........68........FF25
+	0000:o=2:ulink:a=104:m=+E(+5*0c&~-/VirtualProtect~)??*0d&/entry:S=0/pe 
+
+Pattern: 6A0C68........E8........33C0408945E433FF897DFC8B750C3BF7750C393D
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+6C^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........33C0408945E48B750C33FF3BF7750C393D
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+6C^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........33C0408B750C85F6750C3935........0F84E400
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+6D^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........33DB895DFC64A1180000008B50048BFBBE
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+F8(-19!&~-/__winitenv~)??^/_wmain;^/ 
+
+Pattern: 6A0C68........E8........8365FC008B7D0C83FF01740A83FF0274058B5D08
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+64^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........8B7D0C85FF750F393D........7F0733C0E9D400
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+6B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+6B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........8B7D0C85FF750F393D........7F0733C0E9D900
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+6B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........8B7D0C85FF750F393D........7F0733C0E9DA00
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+6B^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........8B7D0C85FF750F393D........7F0733C0E9F400
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+77^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A0C68........E8........8BF98BF28B5D0833C0408945E485F6750C3915
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+67^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A1068........E8........33C0408BF08975E433DB895DFC8B7D0C893D
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+7D^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A1068........E8........33DB391D........750B53536A0153FF15
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+11D(-1A!&~-/__winitenv~)??^/_wmain;^/ 
+
+Pattern: 6A1068........E8........33DB895DFC64A1180000008B7004895DE4BF
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+10A(-1A!&~-/__winitenv~)??^/_wmain;^/ 
+
+Pattern: 6A1068........E8........8B7D0C85FF750F393D........7F0733C0E90B01
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+80^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A1068........E8........8B7D0C85FF750F393D........7F0733C0E90E01
+	0000:o=2:a=108:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+81^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A1068........E8........8BF98BF28B5D0833C0408945E433C9894DFC8935
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+75^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 6A1468........E8........33F63935........750B56566A0156FF15
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+106(-61!&~-/GetCommandLineW~)??^/_wmain;^/ 
+
+Pattern: 6A1468........E8........33F68975E48975E0FF15........0FB7D88975FC
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+120^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+12A^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 6A1468........E8........6A01E8........5984C00F843F01000032DB885D
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F2(-C!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+
+Pattern: 6A1468........E8........6A01E8........5984C00F844001000032DB885D
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F3(-C!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+
+Pattern: 6A1468........E8........6A01E8........5984C00F844501000032DB885D
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F4(-9!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+
+Pattern: 6A1468........E8........6A01E8........5984C00F844601000032DB885D
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F5(-9!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+
+Pattern: 6A1468........E8........6A01E8........5984C00F844A01000032DB885D
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F3(-C!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F3(-C!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+
+Pattern: 6A1468........E8........6A01E8........5984C00F845001000032DB885D
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F5(-9!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F5(-9!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+
+Pattern: 6A1468........E8........6A01E8........5984C075076A07E8........32
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F1(-C!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F3(-9!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F4(-A!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+F8(-C!&~-/__get_wide_winmain_command_line~)??^[_wWinMain@16]~msmfc2u/~@vc32mfc@;^[_WinMain@16]~msmfc2/~@vc32mfc@ 
+	0000:o=2:a=104:vc32_14:vc32ucrt:l=vc32mfc/vcextra/vc8atl:m=+FA(-A!&~-/__get_initial_wide_environment~)??^/_wmain;^/ 
+
+Pattern: 6A1468........E8........6A01E8........59B84D5A0000663905
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+ED(-61!&~-/GetCommandLineW~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+F9(-61!&~-/GetCommandLineW~)??^/_wmain;^/ 
+
+Pattern: 6A1468........E8........8365E000E8........0FB7D88365FC0064A11800
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+11C^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 6A1468........E8........8365E400E8........0FB7D88365FC0064A11800
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+126^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 6A1468........E8........B84D5A0000663905........7538A1........81
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+F5^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+F6^/ 
+
+Pattern: 6A1468........E8........E8........0FB7F06A02E8........59B84D5A00
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+EC(-58!&~-/GetCommandLineW~)??^/_wWinMain@16;^/_WinMain@16 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+F8(-58!&~-/GetCommandLineW~)??^/_wWinMain@16;^/_WinMain@16 
+
+Pattern: 6A1868........E8........BF940000008BC7E8........8965E88BF4893E56
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+166^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+167^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+16D^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+16E^/ 
+
+Pattern: 6A1C68........E8........BF94000000576A008B1D........FFD350FF15
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+159^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+15A^/ 
+
+Pattern: 6A2868........E8........33FF57FF15........6681384D5A751F8B483C03
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+13E(-14!&~-/__p___winitenv~)??^/_wmain;^/ 
+
+Pattern: 6A5868........E8........33DB895DE4895DFC8D459850FF15........C745
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+13B^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 6A5868........E8........33F68975FC8D459850FF15........6AFE5F897D
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+10D^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+10E^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 6A5868........E8........8D459850FF15........33F63935........750B
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+115(-66!&~-/GetCommandLineW~)??^/_wWinMain@16;^/_WinMain@16 
+
+Pattern: 6A5C68........E8........33DB895DE4895DFC8D459450FF15........C745
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+14B^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 6A5C68........E8........33DB895DE48D459450FF15........391D
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+14B^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+153^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 6A6068........E8........8365FC008D459050FF15........C745FCFEFFFF
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+171^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+172^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 6A6068........E8........BF940000008BC7E8........8965E88BF4893E56
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+17E^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+17F^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+185^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+186^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 6A7468........E8........33DB895DE0538B3D........FFD76681384D5A75
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+180^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 6A7468........E8........33FF897DE0578B1D........FFD36681384D5A75
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc7atl:m=+19B^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 837C2408017505E8........FF7424048B4C24108B54240CE8........59C20C
+	0000:s=18/- 
+
+Pattern: 83EC04837C240C00751633C0E8........E8........33C0E8........EB2A90
+	0000:vac35wc:c=a:o=2:a=16A 
+
+Pattern: 83EC04837C240C00751633C0E8........E8........33C0E8........EB2F90
+	0000:vac35wc:c=a:o=2:a=16A 
+
+Pattern: 83EC04837C240C007526E8........85C00F855E00000033C0E8........E8
+	0000:vac35wc:c=a:o=2:a=16A 
+
+Pattern: 83EC04837C240C007526FF15........85C0755C33C0E8........E8
+	0000:vac35wc:c=a:o=2:a=16A 
+
+Pattern: 83EC088B4424088D5C240C890424895C2404E9
+	0000:s=12/- 
+
+Pattern: 83EC0C538B5C2414558B6C2420568B74242057FF15........A9000000808944
+	0000:o=2:a=104:dm32rw32:m=+C0^/_DllMain@12 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE916FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE946FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE956FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE966FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE976FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE986FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE986FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE996FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE996FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........00000000E8........83C40CE9A6FCFFFF909090909090
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE936FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE966FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE976FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE986FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE996FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE9A6FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE9B6FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CC705........01000000E8........83C40CE9C6FCFFFF8DB600000000
+	0000:s=15/- 
+
+Pattern: 83EC0CE878FDFFFF908DB42600000000
+	0000:s=3/- 
+
+Pattern: 83EC0CE888FDFFFF908DB42600000000
+	0000:s=3/- 
+
+Pattern: 83EC1C8B542424C705........0000000083FA01741A8B4C24288B442420E80D
+	0000:s=1E/- 
+
+Pattern: 83EC1C8B542424C705........0000000083FA01741A8B4C24288B442420E81D
+	0000:s=1E/- 
+
+Pattern: 83EC1C8B542424C705........0000000083FA01741A8B4C24288B442420E84D
+	0000:s=1E/- 
+
+Pattern: 83EC1CA1........C7442404000000008944240CA1........89442408A1
+	0000:m=+25^/_wWinMain@16 
+
+Pattern: 83EC1CC7042401000000FF15........E86BFDFFFF8D7426008DBC2700000000
+	0000:s=10/- 
+
+Pattern: 83EC1CC7042401000000FF15........E8CBFEFFFF8D7426008DBC2700000000
+	0000:s=10/- 
+
+Pattern: 83EC1CC7042402000000FF15........E84BFDFFFF8D7426008DBC2700000000
+	0000:s=10/- 
+
+Pattern: 83EC1CC7042402000000FF15........E8ABFEFFFF8D7426008DBC2700000000
+	0000:s=10/- 
+
+Pattern: 83EC1CC705........000000008B54242483FA01741A8B4C24288B442420E83D
+	0000:s=1E/- 
+
+Pattern: 83EC1CC705........000000008B54242483FA01741A8B4C24288B442420E84D
+	0000:s=1E/- 
+
+Pattern: 83EC1CC705........000000008B54242483FA01741A8B4C24288B442420E87D
+	0000:s=1E/- 
+
+Pattern: 83EC2C85D2895C241C89C38974242089D6896C242889CD897C24248915
+	0000:o=2:a=108:c=g:gcc32rtf:m=+3E^/_DllMain@12 
+	0000:o=2:a=108:c=g:gcc32rtf:m=+46^/_DllMain@12 
+	0000:o=2:a=108:c=g:gcc32rtf:m=+46^/_DllMain@12 
+
+Pattern: 83EC2C85D2895C241C89D3897C242489C7896C242889CD897424208915
+	0000:o=2:a=108:c=g:gcc32rtf:m=+40^/_DllMain@12 
+
+Pattern: 83EC2C895C24208B5C2434897424248B742430897C24288B7C243883FB017444
+	0000:o=2:a=108:c=g:gcc32rtf:m=+2B^/_DllMain@12; 
+
+Pattern: 8B04248B5C240481EC8000000083E4F089442478895C247CBD........8D9C24
+	0000::go_std:i=golang.idc 
+	0000::go_std:i=golang.idc 
+
+Pattern: 8B4424084874......E9..........
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: 8B4424084874......E9........837C240C0075F458595A5A50525251E8E7FF
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: 8B4424084874......E9........837C240C0075F45859874424045051E8E7FF
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: 8B4424084874..9090E931750900
+	0000:o=2:ulink:a=104:m=+E(+5*0c&~-/VirtualProtect~)??*0d&/entry:S=0/pe 
+
+Pattern: 8BFF558BEC5151A1........85C074073D40BB000075318D45F8506A006A0CE8
+	0000:o=2:a=100:ms32wdk:m=+4E^/_DriverEntry@8 
+
+Pattern: 8BFF558BEC51837D0C0175238B4510508B4D0C518B550852E8........83C40C
+	0000:o=20:a=108:win32unx:m=+4A^/_DLLMain@12 
+
+Pattern: 8BFF558BEC51E8........8945FC837DFCFF7510E8........8B0050E8
+	0000:o=20:a=104:win32unx:m=+5C^+1C^/ 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C488535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+286^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C48C535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+283^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C490535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+238^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+25B^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C494535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+160^[_wWinMain@16]~msmfc2u/~@vc32mfc@; 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+161^[_WinMain@16]~msmfc2/~@vc32mfc@; 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C498535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+13D(-89!&~-/GetCommandLineW~)??^/_wWinMain@16;^/_WinMain@16 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C4E4535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+1A3(-22!&~-/__winitenv~)??^/_wmain;^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+1BA(-22!&~-/__winitenv~)??^/_wmain;^/ 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C4E8535657A1
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+111^/_wmain 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+112^/ 
+	0000:o=2:a=104:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+124(-7A!&~-/GetCommandLineW~)??^/_wmain;^/ 
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+C5^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 8BFF558BEC6AFE68........68........64A1000000005083C4F0535657A1
+	0000:o=2:a=108:vc32rtf:l=vc32mfc/vcextra/vc8atl:m=+C8^[_DllMain@12]~msmfc2d/~@vc32mfc@; 
+
+Pattern: 8BFF558BEC837D0C017505E8........8B4510508B4D0C518B550852E8
+	0000:s=1C/- 
+
+Pattern: 8BFF558BEC837D0C017505E8........FF75088B4D108B550CE8........595D
+	0000:s=19/- 
+
+Pattern: 8BFF558BEC83EC08837D08000F85BA000000E8........A3........A1
+	0000:o=20:a=104:win32unx:m=+177^+29^/ 
+
+Pattern: 8BFF558BEC83EC24E8........8945FC837DFCFF750EA1........50E8
+	0000:o=20:a=104:win32unx:m=+E6^+29^/ 
+
+Pattern: 8BFF558BECE8........5D9090909090
+	0000:o=2:a=100:ms32wdk:m=+10/_DriverEntry@8 
+
+Pattern: 8BFF558BECE8........5DE9
+	0000:o=2:a=100:ms32wdk:m=+B^/_DriverEntry@8 
+
+Pattern: 8BFF558BECE8........5DEB
+	0000:o=2:a=100:ms32wdk:m=+B^/_DriverEntry@8 
+
+Pattern: 8BFF558BECE8........E8........5DC3
+	0000:s=A/- 
+
+Pattern: 8D4C240483E4F031C0FF71FC5589E5575653518D55A4B91100000083EC788B35
+	0000:o=2:a=104:c=g:gcc32rtf:m=+236(+AD!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+	0000:o=2:a=104:c=g:gcc32rtf:m=+248(+AC!&~-/GetStartupInfoW~)??^/_wmain;^/:M=0/- 
+
+Pattern: 8D4C240483E4F0FF71FC5589E55183EC14E8........A1........C744240400
+	0000:m=+38^/_WinMain@16 
+
+Pattern: 8D4C240483E4F0FF71FC5589E556535183EC6CE8........E8........89C38D
+	0000:m=+9D^/_WinMain@16 
+	0000:m=+9F^/_WinMain@16 
+	0000:m=+A6^/_WinMain@16 
+	0000:m=+B7^/_WinMain@16 
+	0000:m=+D1^/_WinMain@16 
+
+Pattern: A1........C1E002A3........575133C0BF........B9........3BCF76052B
+	0000:o=2:bh32rw32:l=b32vcl/bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=104:m=+2E!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 0046:__GetExceptDLLinfo 004B:__isDLL 0053:__getHInstance 00F9:@System@@GetTls$qqrv 
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=104:m=+5C!*0d&+18(+15?0)*0c&??/;/WinMain 0074:__GetExceptDLLinfo 
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/bh32dbe/b532cgw:a=104:m=+56!*0d&+18(+25?0)*0c&??/;/WinMain 006E:__GetExceptDLLinfo 
+	0000:o=2:i=bds/bor32:a=104:m=+3E!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 0056:__GetExceptDLLinfo 005B:__isDLL 0063:__getHInstance 010C:___System__GetTls 
+	0000:o=2:i=bds/bor32:a=104:m=+48!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 0060:__GetExceptDLLinfo 0065:__isDLL 006D:__getHInstance 0140:___System__GetTls 
+
+Pattern: A1........C1E002A3........64678B1604008B42F8A3........8B42FCA3
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/bh32dbe:a=104:m=+3D!*0d&+18(+25?0)*0c&??/;/WinMain 004A:__GetExceptDLLinfo 
+
+Pattern: A1........C1E002A3........837C2408010F8580000000803D........0074
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=108:m=+D4!*0d&+18*0c&/DllEntryPoint 011B:__GetExceptDLLinfo 
+
+Pattern: A1........C1E002A3........837C2408010F859B000000803D........0074
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=108:m=+EF!*0d&+18*0c&/DllEntryPoint 0154:__GetExceptDLLinfo 
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=108:m=+EF!*0d&+18*0c&/DllEntryPoint 0151:__GetExceptDLLinfo 
+
+Pattern: A1........C1E002A3........837C2408017519575133C0BF........B9
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/bh32dbe/b532cgw:a=108:m=+8B!*0d&+18*0c&/DllEntryPoint 00C3:__GetExceptDLLinfo 
+
+Pattern: A1........C1E002A3........837C240801752764678B1604008B42F8A3
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/bh32dbe:a=108:m=+3B!*0d&+18*0c&/DllEntryPoint 0063:__GetExceptDLLinfo 
+
+Pattern: A1........C1E002A3........837C240801756B803D........007421E8
+	0000:o=2:bh32rw32:l=bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=108:m=+86!*0d&+18*0c&/DllEntryPoint 
+
+Pattern: A1........C1E002A3........8B442408A3........FF1485........833D
+	0000:o=2:i=bds/bor32:a=108:m=+AA!*0d&+18*0c&/DllEntryPoint 012B:__GetExceptDLLinfo 0130:__isDLL 0138:__getHInstance 020F:___System__GetTls 
+
+Pattern: A1........C1E002A3........8B442408FF1485........837C240801755080
+	0000:o=2:bh32rw32:l=b32vcl/bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=108:m=+76!*0d&+18*0c&/DllEntryPoint 009B:__isDLL 00A3:__getHInstance 0149:@System@@GetTls$qqrv 
+
+Pattern: A1........C1E002A3........8B442408FF1485........837C240801755880
+	0000:o=2:bh32rw32:l=b32vcl/bh32cls/bh32owl/bh32ocf/b5132mfc/bh32dbe/b532cgw:a=108:m=+7E!*0d&+18*0c&/DllEntryPoint 00A3:__GetExceptDLLinfo 00A8:__isDLL 00B0:__getHInstance 0156:@System@@GetTls$qqrv 
+
+Pattern: A1........C1E002A3........8B442408FF1485........837C240801757280
+	0000:o=2:i=bds/bor32:a=108:m=+91!*0d&+18*0c&/DllEntryPoint 0106:__GetExceptDLLinfo 010B:__isDLL 0113:__getHInstance 01C0:___System__GetTls 
+
+Pattern: B8........85C0741FE8........A3........E8........A1........50E8
+	0000:o=2:a=10C:b32vcl 
+
+Pattern: B87E000780C20400
+	0000:o=2:ulink:a=104:m=+9!^:S=0/pe 
+
+Pattern: BA........837D0C01752A5052C605........018B4D08890D........894A04
+	0000:o=2:a=10C:bds 
+
+Pattern: C705................E9................574154434F4D20432F432B2B33
+	0000:o=2:a=100:wa32rtn:wa32rt_:m=!*1c&[_WinMain]+16^(~/+007DDEFAULTWINMAIN~+34^/main_)~/+0080DEFAULTWINMAIN~+3C^/main 
+
+Pattern: C80C000053FF15........8945F4F745F400000080740D807DF4047307B80100
+	0000:o=2:a=104:dm32rw32:m=+167^/_DllMain@12 
+	0000:o=2:a=104:dm32rw32:m=+C7^/_DllMain@12 
+
+Pattern: E8........E9
+	0000:s=5/- 
+
+Pattern: E9..................
+	0000:s=0/- 
+
+Pattern: E9................4F70656E20576174636F6D20432F432B2B33322052756E
+	0000:o=2:a=100:wa32rtn:wa32rt_:s=0/wa32stn 
+
+Pattern: E9................574154434F4D2043203338362052756E2D54696D652073
+	0000:o=2:a=100:wa32rtn:wa32rt_:s=0/wa32stn 
+
+Pattern: E9................574154434F4D20432F432B2B33322052756E2D54696D65
+	0000:o=2:a=100:wa32rtn:wa32rt_:s=0/wa32stn 
+	0000:o=2:a=100:wa32rtn:wa32rt_:s=0/wa32stn 
+
+Pattern: EB1066623A432B2B484F4F4B90E9........A1........C1E002A3........52
+	0000:o=2:i=bds/bor32:a=104:m=+41!(*0d&$bds/detect$)(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 0059:__GetExceptDLLinfo 005E:__isDLL 0066:__getHInstance 0140:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=104:m=+47!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 005F:__GetExceptDLLinfo 0064:__isDLL 006C:__getHInstance 0146:@Sysinit@@GetTls$qqrv 
+
+Pattern: EB1066623A432B2B484F4F4B90E9........A1........C1E002A3........8B
+	0000:o=2:i=bds/bor32:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 0117:__GetExceptDLLinfo 011C:__isDLL 0124:__getHInstance 0226:@Sysinit@@GetTls$qqrv 026A:___CRTL_TLS_Alloc 0270:___CRTL_TLS_Free 0281:___CRTL_TLS_GetValue 0292:___CRTL_TLS_SetValue 02A7:___CRTL_TLS_InitThread 02B3:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/bor32:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 0117:__GetExceptDLLinfo 011C:__isDLL 0124:__getHInstance 0226:@Sysinit@@GetTls$qqrv 026A:___CRTL_TLS_Alloc 0270:___CRTL_TLS_Free 0281:___CRTL_TLS_GetValue 0292:___CRTL_TLS_SetValue 02A7:___CRTL_TLS_InitThread 02B3:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/bor32:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 0117:__GetExceptDLLinfo 011C:__isDLL 0124:__getHInstance 0202:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/bor32:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 0117:__GetExceptDLLinfo 011C:__isDLL 0124:__getHInstance 0202:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/bor32:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 010F:__isDLL 0117:__getHInstance 01F5:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/bor32:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 010F:__isDLL 0117:__getHInstance 01F5:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 011D:__GetExceptDLLinfo 0122:__isDLL 012A:__getHInstance 022C:@Sysinit@@GetTls$qqrv 0270:___CRTL_TLS_Alloc 0276:___CRTL_TLS_Free 0287:___CRTL_TLS_GetValue 0298:___CRTL_TLS_SetValue 02AD:___CRTL_TLS_InitThread 02B9:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/emb:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 011A:__isDLL 0122:__getHInstance 0224:@Sysinit@@GetTls$qqrv 0268:___CRTL_TLS_Alloc 026E:___CRTL_TLS_Free 027F:___CRTL_TLS_GetValue 0290:___CRTL_TLS_SetValue 02A5:___CRTL_TLS_InitThread 02B1:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/emb:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 011A:__isDLL 0122:__getHInstance 0224:@Sysinit@@GetTls$qqrv 0268:___CRTL_TLS_Alloc 026E:___CRTL_TLS_Free 027F:___CRTL_TLS_GetValue 0290:___CRTL_TLS_SetValue 02A5:___CRTL_TLS_InitThread 02B1:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 011D:__GetExceptDLLinfo 0122:__isDLL 012A:__getHInstance 0208:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 0115:__isDLL 011D:__getHInstance 01FB:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 0115:__isDLL 011D:__getHInstance 01FB:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 011A:__isDLL 0122:__getHInstance 0200:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 011A:__isDLL 0122:__getHInstance 0200:@Sysinit@@GetTls$qqrv 
+
+Pattern: EB1066623A432B2B484F4F4B90E9........E8........A1........C1E002A3
+	0000:o=2:i=bds/emb:a=104:m=+44!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 005C:__isDLL 0064:__getHInstance 013E:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=104:m=+44!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 005C:__isDLL 0064:__getHInstance 013E:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 011A:__isDLL 0122:__getHInstance 0224:@Sysinit@@GetTls$qqrv 0268:___CRTL_TLS_Alloc 026E:___CRTL_TLS_Free 027F:___CRTL_TLS_GetValue 0290:___CRTL_TLS_SetValue 02A5:___CRTL_TLS_InitThread 02B1:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 011A:__isDLL 0122:__getHInstance 0200:@Sysinit@@GetTls$qqrv 
+
+Pattern: EB1466623A432B2B484F4F4B90E9................A1........C1E002A3
+	0000:o=2:i=bds/emb:a=104:m=+4B!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 0063:__GetExceptDLLinfo 0068:__isDLL 0070:__getHInstance 014A:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=104:m=+4B!(+13!^~/__startup~)*0d&+18??(-8?0)*0c&(??/)/WinMain;(-8?0)*0c&??/_wmain;/wWinMain 0063:__GetExceptDLLinfo 0068:__isDLL 0070:__getHInstance 014A:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 0121:__GetExceptDLLinfo 0126:__isDLL 012E:__getHInstance 0230:@Sysinit@@GetTls$qqrv 0274:___CRTL_TLS_Alloc 027A:___CRTL_TLS_Free 028B:___CRTL_TLS_GetValue 029C:___CRTL_TLS_SetValue 02B1:___CRTL_TLS_InitThread 02BD:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/emb:a=108:m=+8E!*0d&$bds/detect$+18*0c&/DllEntryPoint 0121:__GetExceptDLLinfo 0126:__isDLL 012E:__getHInstance 0230:@Sysinit@@GetTls$qqrv 0274:___CRTL_TLS_Alloc 027A:___CRTL_TLS_Free 028B:___CRTL_TLS_GetValue 029C:___CRTL_TLS_SetValue 02B1:___CRTL_TLS_InitThread 02BD:___CRTL_TLS_ExitThread 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 0121:__GetExceptDLLinfo 0126:__isDLL 012E:__getHInstance 020C:@Sysinit@@GetTls$qqrv 
+	0000:o=2:i=bds/emb:a=108:m=+96!*0d&$bds/detect$+18*0c&/DllEntryPoint 0121:__GetExceptDLLinfo 0126:__isDLL 012E:__getHInstance 020C:@Sysinit@@GetTls$qqrv 
+
